@@ -1,0 +1,5 @@
+/*TIPOS DE OPERADORES
+    1 - BINÁRIOS.
+    2 - UNÁRIOS.
+    3 - TERNÁRIOS.
+*/
