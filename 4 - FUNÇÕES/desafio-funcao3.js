@@ -12,4 +12,6 @@ function resultadoFinal (media) {
         return 'Reprovado';
     };
 }
+
+resultadoFinal(media);
 console.log(resultadoFinal(media));

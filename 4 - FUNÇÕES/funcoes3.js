@@ -2,11 +2,9 @@
 //nome da função/entradas da função.
 //         Y     Y
 function somar(a, b) {
-    a = 5;
-    b = 6;
     console.log(a + b);
 }
-somar();
+somar(3, 4);
 
 function somar1(n1, n2) {
   console.log(n1 + n2);
