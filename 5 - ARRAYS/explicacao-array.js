@@ -5,16 +5,4 @@
                0    1    2
                Y    Y    Y
  Ex: notas = [7.2, 8.5, 9.4,];
- EX: usuarios = [
-   {
- nome:João
- nota: 7.2
- }, {
- nome: Maria
- nota: 8.5
- }, {
- nome: Claudio
- nota: 9.4
- }
-]
  */
